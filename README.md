@@ -1,6 +1,8 @@
 # Unity_Pacman_Demo
 Unity learning project, a copy of the pacman project case in Siki Academy.
 
+Unity Editor version: 2021.2.1f1c1
+
 ## To do:
 
 1.Another 3 remain patrol paths for monsters;
