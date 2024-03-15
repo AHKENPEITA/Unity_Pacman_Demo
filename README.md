@@ -10,4 +10,4 @@ Unity Editor version: 2021.2.1f1c1
 2.GUI and score display;
 
 ![image](Assets/Image/1.png)
-![image](Assest/Image/2.png)
+![image](Assets/Image/2.png)
